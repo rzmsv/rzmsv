@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate.highly motivated and self-taught freelance developer .<br><br>As a backend developer, I have 4 years of experience working with developer teams .<br><br>Key skills:<br>. Experience in developing services as a MicroService .<br>. Experience in working with Docker and Docker-compose .<br>. Experience in working with NoSQL and SQL databases .
+A passionate.highly motivated and self-taught freelance developer .<br><br>As a backend developer, I have 5 years of experience working with developer teams .<br><br>Key skills:<br>. Experience in developing services as a MicroService .<br>. Experience in working with Docker and Docker-compose .<br>. Experience in working with NoSQL and SQL databases .
 
 
 ## 🌐 Socials:
